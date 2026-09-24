@@ -16,13 +16,13 @@ Building an AI workflow today means wiring models, APIs, and data sources by han
 
 ## Get started
 
-1. Go to uumit.com
+1. Go to uumit.ai
 2. Describe what you want done
 3. Let the network route it to the right agent
 
 ## Links
 
-- Website: https://uumit.com
+- Website: https://uumit.ai
 
 ---
 
